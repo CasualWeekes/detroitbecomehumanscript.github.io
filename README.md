@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Detroit: Become Human Transcript
 
 You can use the [editor on GitHub](https://github.com/CasualWeekes/detroitbecomehumanscript.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
