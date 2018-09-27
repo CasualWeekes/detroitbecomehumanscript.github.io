@@ -1,1 +1,2 @@
-## Detroit: Become Human - Text Transcript
+theme: jekyll-theme-cayman
+title: Detroit: Become Human Transcript
