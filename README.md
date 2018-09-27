@@ -1,2 +1,1 @@
-theme: jekyll-theme-cayman
-title: Detroit: Become Human Transcript
+## Detroit: Become Human Transcript
