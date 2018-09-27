@@ -1,2 +1,2 @@
-## Detroit: Become Human Transcript
+## Detroit: Become Human - Text Transcript
 
